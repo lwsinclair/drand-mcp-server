@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/randa-mu-drand-mcp-server-badge.png)](https://mseep.ai/app/randa-mu-drand-mcp-server)
+
 # drand-mcp-server 🎲
 
 ![build](https://github.com/randa-mu/drand-mcp-server/actions/workflows/build.yml/badge.svg)
